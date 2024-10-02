@@ -1,7 +1,9 @@
 # UsdtFakeSender
 # 💫 About Me:
-FOR USDTFLASHING Note : Our usdt flash demo is not free if you wanna send flash open software and pay gas fees that do flash upto for 1 between 20k.<br>Contact us for Getting Software  Telegram : https://t.me/singhtechnologies<br>For BTCFLASHING Note : our btc flashing demo free but only do flash at random address own address flash is in paid plans. Here btc flash software generated random address in demo program by this u can check urself and check how software works and you will know its real working<br>Contact us for Getting Demo Software Telegram : https://t.me/singhtechnologies
-
+FOR USDTFLASHING Note : Our usdt flash demo is not free if you wanna send flash open software and pay gas fees that do flash upto for 1 between 20k.<br>Contact us for Getting Software  Telegram : https://t.me/singhtechnologies<br>
+Whatsapp: https://wa.me/12342559616<br>
+For BTCFLASHING Note : our btc flashing demo free but only do flash at random address own address flash is in paid plans. Here btc flash software generated random address in demo program by this u can check urself and check how software works and you will know its real working<br>Contact us for Getting Demo Software Telegram : https://t.me/singhtechnologies
+Whatsapp: https://wa.me/12342559616<br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
